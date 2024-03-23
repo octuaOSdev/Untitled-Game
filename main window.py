@@ -14,7 +14,7 @@ pygame.init()
 window = pygame.display.set_mode((600, 600)) 
   
 # Add caption in the window 
-pygame.display.set_caption('Player Movement') 
+pygame.display.set_caption('UNtitled Game') 
   
 # Initializing the clock 
 # Clocks are used to track and 
